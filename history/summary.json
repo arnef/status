@@ -4,19 +4,19 @@
     "url": "https://push.kickern.online/health",
     "icon": "https://icons.duckduckgo.com/ip3/push.kickern.online.ico",
     "slug": "kickern-push-service",
-    "status": "down",
-    "uptime": "5.97%",
-    "uptimeDay": "5.97%",
-    "uptimeWeek": "5.97%",
-    "uptimeMonth": "5.97%",
-    "uptimeYear": "5.97%",
-    "time": 601,
-    "timeDay": 601,
-    "timeWeek": 601,
-    "timeMonth": 601,
-    "timeYear": 601,
+    "status": "up",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
+    "time": 600,
+    "timeDay": 600,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2022-11-16": 0
+      "2022-11-16": 11
     }
   },
   {
