@@ -7,6 +7,8 @@ sites:
     url: https://push.kickern.online/health
   - name: Kickern Api
     url: https://kickern.online/_healthcheck
+  - name: GEKI
+    url: https://geki-piano.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
