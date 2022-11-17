@@ -7,6 +7,14 @@ sites:
     url: https://push.kickern.online/health
   - name: Kickern Api
     url: https://kickern.online/_healthcheck
+  - name: DTFB
+    url: https://dtfb.de
+  - name: TFVHH
+    url: https://kickern-hamburg.de
+  - name: NWTFV
+    url: https://nwtfv.com
+  - name: NTFV
+    url: https://ntfv.de
   - name: GEKI
     url: https://geki-piano.com
 
