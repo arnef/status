@@ -40,19 +40,19 @@
     "url": "https://dtfb.de",
     "icon": "https://icons.duckduckgo.com/ip3/dtfb.de.ico",
     "slug": "dtfb",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 4917,
-    "timeDay": 4917,
-    "timeWeek": 4917,
-    "timeMonth": 4917,
-    "timeYear": 4917,
+    "status": "up",
+    "uptime": "95.43%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "95.43%",
+    "uptimeMonth": "95.43%",
+    "uptimeYear": "95.43%",
+    "time": 5861,
+    "timeDay": 5861,
+    "timeWeek": 5861,
+    "timeMonth": 5861,
+    "timeYear": 5861,
     "dailyMinutesDown": {
-      "2022-11-17": 0
+      "2022-11-17": 13
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kickern-hamburg.de.ico",
     "slug": "tfvhh",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "95.50%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "95.50%",
+    "uptimeMonth": "95.50%",
+    "uptimeYear": "95.50%",
     "time": 1769,
     "timeDay": 1769,
     "timeWeek": 1769,
     "timeMonth": 1769,
     "timeYear": 1769,
     "dailyMinutesDown": {
-      "2022-11-17": 0
+      "2022-11-17": 13
     }
   },
   {
