@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dtfb.de.ico",
     "slug": "dtfb",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2407,
     "timeDay": 1104,
     "timeWeek": 1884,
     "timeMonth": 2407,
     "timeYear": 2407,
-    "dailyMinutesDown": {
-      "2022-11-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TFVHH",
@@ -80,9 +78,9 @@
     "url": "https://nwtfv.com",
     "icon": "https://icons.duckduckgo.com/ip3/nwtfv.com.ico",
     "slug": "nwtfv",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "98.97%",
@@ -92,6 +90,7 @@
     "timeMonth": 773,
     "timeYear": 773,
     "dailyMinutesDown": {
+      "2022-11-30": 0,
       "2022-11-27": 15,
       "2022-11-23": 36,
       "2022-11-22": 16,
