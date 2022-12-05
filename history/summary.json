@@ -4,10 +4,10 @@
     "url": "https://push.kickern.online/health",
     "icon": "https://icons.duckduckgo.com/ip3/push.kickern.online.ico",
     "slug": "kickern-push-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 436,
@@ -15,17 +15,19 @@
     "timeWeek": 446,
     "timeMonth": 436,
     "timeYear": 436,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 1
+    }
   },
   {
     "name": "Kickern Api",
     "url": "https://kickern.online/_healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/kickern.online.ico",
     "slug": "kickern-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
@@ -33,7 +35,9 @@
     "timeWeek": 441,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 1
+    }
   },
   {
     "name": "DTFB",
@@ -124,9 +128,9 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -135,6 +139,8 @@
     "timeWeek": 1657,
     "timeMonth": 1464,
     "timeYear": 1464,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 0
+    }
   }
 ]
