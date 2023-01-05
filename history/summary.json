@@ -13,7 +13,7 @@
     "time": 447,
     "timeDay": 431,
     "timeWeek": 391,
-    "timeMonth": 455,
+    "timeMonth": 441,
     "timeYear": 447,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 417,
     "timeDay": 460,
     "timeWeek": 415,
-    "timeMonth": 427,
+    "timeMonth": 424,
     "timeYear": 417,
     "dailyMinutesDown": {}
   },
@@ -79,15 +79,15 @@
     "url": "https://nwtfv.com",
     "icon": "https://icons.duckduckgo.com/ip3/nwtfv.com.ico",
     "slug": "nwtfv",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
-    "uptimeDay": "98.04%",
+    "uptimeDay": "98.03%",
     "uptimeWeek": "96.10%",
     "uptimeMonth": "97.45%",
     "uptimeYear": "98.08%",
     "time": 805,
-    "timeDay": 949,
-    "timeWeek": 837,
+    "timeDay": 960,
+    "timeWeek": 836,
     "timeMonth": 808,
     "timeYear": 805,
     "dailyMinutesDown": {
@@ -156,7 +156,7 @@
     "time": 1828,
     "timeDay": 1041,
     "timeWeek": 1114,
-    "timeMonth": 2056,
+    "timeMonth": 1938,
     "timeYear": 1828,
     "dailyMinutesDown": {}
   }
