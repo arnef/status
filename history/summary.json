@@ -42,9 +42,9 @@
     "slug": "dtfb",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.67%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.86%",
     "time": 1897,
     "timeDay": 12643,
@@ -52,7 +52,7 @@
     "timeMonth": 2055,
     "timeYear": 1897,
     "dailyMinutesDown": {
-      "2023-01-25": 26,
+      "2023-01-25": 19,
       "2023-01-19": 92,
       "2023-01-10": 26
     }
@@ -84,10 +84,10 @@
     "url": "https://nwtfv.com",
     "icon": "https://icons.duckduckgo.com/ip3/nwtfv.com.ico",
     "slug": "nwtfv",
-    "status": "up",
+    "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.54%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.52%",
     "uptimeMonth": "96.87%",
     "uptimeYear": "97.83%",
     "time": 818,
@@ -96,6 +96,7 @@
     "timeMonth": 841,
     "timeYear": 818,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2023-01-21": 29,
       "2023-01-19": 17,
       "2023-01-18": 25,
@@ -168,9 +169,9 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,6 +180,8 @@
     "timeWeek": 7847,
     "timeMonth": 3179,
     "timeYear": 2535,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
