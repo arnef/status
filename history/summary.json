@@ -40,10 +40,10 @@
     "url": "https://dtfb.de",
     "icon": "https://icons.duckduckgo.com/ip3/dtfb.de.ico",
     "slug": "dtfb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.09%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.06%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.88%",
     "time": 1461,
@@ -52,6 +52,7 @@
     "timeMonth": 1142,
     "timeYear": 1461,
     "dailyMinutesDown": {
+      "2023-01-25": 2,
       "2023-01-19": 92,
       "2023-01-10": 26
     }
@@ -147,19 +148,19 @@
     "url": "https://ntfv.de",
     "icon": "https://icons.duckduckgo.com/ip3/ntfv.de.ico",
     "slug": "ntfv",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.96%",
-    "time": 1029,
-    "timeDay": 841,
-    "timeWeek": 1071,
-    "timeMonth": 1027,
-    "timeYear": 1029,
+    "time": 1038,
+    "timeDay": 1268,
+    "timeWeek": 1140,
+    "timeMonth": 1045,
+    "timeYear": 1038,
     "dailyMinutesDown": {
-      "2023-01-25": 1,
+      "2023-01-25": 6,
       "2023-01-05": 37
     }
   },
@@ -168,9 +169,9 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,6 +180,8 @@
     "timeWeek": 5185,
     "timeMonth": 2191,
     "timeYear": 2092,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
