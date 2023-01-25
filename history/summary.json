@@ -4,28 +4,30 @@
     "url": "https://push.kickern.online/health",
     "icon": "https://icons.duckduckgo.com/ip3/push.kickern.online.ico",
     "slug": "kickern-push-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 603,
     "timeDay": 2993,
     "timeWeek": 1948,
     "timeMonth": 820,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 3
+    }
   },
   {
     "name": "Kickern Api",
     "url": "https://kickern.online/_healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/kickern.online.ico",
     "slug": "kickern-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
@@ -33,7 +35,9 @@
     "timeWeek": 504,
     "timeMonth": 432,
     "timeYear": 422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 2
+    }
   },
   {
     "name": "DTFB",
@@ -86,9 +90,9 @@
     "slug": "nwtfv",
     "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "96.87%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "96.86%",
     "uptimeYear": "97.83%",
     "time": 818,
     "timeDay": 669,
@@ -96,7 +100,7 @@
     "timeMonth": 841,
     "timeYear": 818,
     "dailyMinutesDown": {
-      "2023-01-25": 2,
+      "2023-01-25": 8,
       "2023-01-21": 29,
       "2023-01-19": 17,
       "2023-01-18": 25,
@@ -149,11 +153,11 @@
     "url": "https://ntfv.de",
     "icon": "https://icons.duckduckgo.com/ip3/ntfv.de.ico",
     "slug": "ntfv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 1038,
     "timeDay": 1199,
@@ -161,6 +165,7 @@
     "timeMonth": 1046,
     "timeYear": 1038,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-05": 37
     }
   },
@@ -170,18 +175,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 2535,
     "timeDay": 14833,
     "timeWeek": 7847,
     "timeMonth": 3179,
     "timeYear": 2535,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 7
     }
   }
 ]
