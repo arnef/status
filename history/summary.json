@@ -92,18 +92,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nwtfv.com.ico",
     "slug": "nwtfv",
     "status": "up",
-    "uptime": "98.14%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.14%",
+    "uptime": "98.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.12%",
     "time": 828,
     "timeDay": 1327,
     "timeWeek": 807,
     "timeMonth": 878,
     "timeYear": 828,
     "dailyMinutesDown": {
-      "2023-02-13": 5,
       "2023-02-08": 23,
       "2023-02-07": 16,
       "2023-02-06": 2,
@@ -155,7 +154,8 @@
       "2022-11-23": 36,
       "2022-11-22": 16,
       "2022-11-20": 49,
-      "2022-11-19": 25
+      "2022-11-19": 25,
+      "2022-11-18": 30
     }
   },
   {
@@ -184,18 +184,19 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 3445,
-    "timeDay": 8853,
-    "timeWeek": 12076,
-    "timeMonth": 6170,
-    "timeYear": 3445,
+    "time": 3523,
+    "timeDay": 9396,
+    "timeWeek": 11971,
+    "timeMonth": 6298,
+    "timeYear": 3523,
     "dailyMinutesDown": {
+      "2023-02-13": 0,
       "2023-01-25": 42
     }
   }
