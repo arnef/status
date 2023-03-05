@@ -12,7 +12,7 @@
     "uptimeYear": "99.97%",
     "time": 815,
     "timeDay": 390,
-    "timeWeek": 683,
+    "timeWeek": 668,
     "timeMonth": 1399,
     "timeYear": 815,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.97%",
     "time": 468,
     "timeDay": 464,
-    "timeWeek": 514,
+    "timeWeek": 535,
     "timeMonth": 568,
     "timeYear": 468,
     "dailyMinutesDown": {
@@ -91,18 +91,19 @@
     "url": "https://nwtfv.com",
     "icon": "https://icons.duckduckgo.com/ip3/nwtfv.com.ico",
     "slug": "nwtfv",
-    "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.35%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.08%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "98.33%",
+    "uptimeYear": "98.35%",
     "time": 840,
     "timeDay": 1024,
     "timeWeek": 867,
     "timeMonth": 902,
     "timeYear": 840,
     "dailyMinutesDown": {
+      "2023-03-05": 0,
       "2023-03-02": 31,
       "2023-02-28": 190,
       "2023-02-27": 57,
@@ -156,8 +157,7 @@
       "2022-12-10": 20,
       "2022-12-09": 15,
       "2022-12-05": 17,
-      "2022-12-02": 17,
-      "2022-12-01": 17
+      "2022-12-02": 17
     }
   },
   {
@@ -191,12 +191,12 @@
     "status": "up",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.66%",
+    "uptimeWeek": "98.88%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.84%",
     "time": 9922,
     "timeDay": 18260,
-    "timeWeek": 14799,
+    "timeWeek": 15184,
     "timeMonth": 14201,
     "timeYear": 9922,
     "dailyMinutesDown": {
