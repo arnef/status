@@ -44,9 +44,9 @@
     "url": "https://dtfb.de",
     "icon": "https://icons.duckduckgo.com/ip3/dtfb.de.ico",
     "slug": "dtfb",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -56,6 +56,7 @@
     "timeMonth": 1108,
     "timeYear": 1584,
     "dailyMinutesDown": {
+      "2023-03-05": 0,
       "2023-02-03": 134,
       "2023-01-25": 19,
       "2023-01-19": 92,
@@ -93,9 +94,9 @@
     "slug": "nwtfv",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.08%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "98.34%",
     "time": 840,
     "timeDay": 927,
@@ -103,7 +104,6 @@
     "timeMonth": 901,
     "timeYear": 840,
     "dailyMinutesDown": {
-      "2023-03-05": 5,
       "2023-03-02": 31,
       "2023-02-28": 190,
       "2023-02-27": 57,
@@ -157,7 +157,8 @@
       "2022-12-10": 20,
       "2022-12-09": 15,
       "2022-12-05": 17,
-      "2022-12-02": 17
+      "2022-12-02": 17,
+      "2022-12-01": 17
     }
   },
   {
@@ -196,7 +197,7 @@
     "uptimeYear": "99.84%",
     "time": 9922,
     "timeDay": 18260,
-    "timeWeek": 15184,
+    "timeWeek": 14959,
     "timeMonth": 14201,
     "timeYear": 9922,
     "dailyMinutesDown": {
