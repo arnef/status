@@ -4,10 +4,10 @@
     "url": "https://push.kickern.online/health",
     "icon": "https://icons.duckduckgo.com/ip3/push.kickern.online.ico",
     "slug": "kickern-push-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.91%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.90%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.86%",
     "time": 826,
@@ -16,6 +16,7 @@
     "timeMonth": 1070,
     "timeYear": 826,
     "dailyMinutesDown": {
+      "2023-03-22": 1,
       "2023-03-18": 211,
       "2023-01-25": 41
     }
@@ -25,9 +26,9 @@
     "url": "https://kickern.online/_healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/kickern.online.ico",
     "slug": "kickern-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "97.91%",
     "uptimeMonth": "99.52%",
     "uptimeYear": "99.86%",
@@ -37,6 +38,7 @@
     "timeMonth": 497,
     "timeYear": 471,
     "dailyMinutesDown": {
+      "2023-03-22": 1,
       "2023-03-18": 210,
       "2023-01-25": 41
     }
@@ -95,17 +97,16 @@
     "slug": "nwtfv",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "98.57%",
     "time": 842,
     "timeDay": 835,
     "timeWeek": 819,
-    "timeMonth": 850,
+    "timeMonth": 849,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-03-22": 7,
       "2023-03-18": 19,
       "2023-03-13": 15,
       "2023-03-11": 16,
@@ -159,7 +160,8 @@
       "2022-12-19": 38,
       "2022-12-17": 37,
       "2022-12-15": 43,
-      "2022-12-12": 16
+      "2022-12-12": 16,
+      "2022-12-10": 20
     }
   },
   {
@@ -190,9 +192,9 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.92%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.75%",
@@ -202,6 +204,7 @@
     "timeMonth": 13420,
     "timeYear": 9644,
     "dailyMinutesDown": {
+      "2023-03-22": 0,
       "2023-03-18": 210,
       "2023-02-27": 78,
       "2023-02-26": 57,
