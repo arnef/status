@@ -93,15 +93,15 @@
     "url": "https://nwtfv.com",
     "icon": "https://icons.duckduckgo.com/ip3/nwtfv.com.ico",
     "slug": "nwtfv",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "97.01%",
+    "status": "down",
+    "uptime": "98.75%",
+    "uptimeDay": "97.04%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "97.90%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.75%",
     "time": 830,
-    "timeDay": 800,
-    "timeWeek": 763,
+    "timeDay": 786,
+    "timeWeek": 762,
     "timeMonth": 785,
     "timeYear": 830,
     "dailyMinutesDown": {
@@ -164,7 +164,7 @@
       "2023-01-01": 45,
       "2022-12-31": 65,
       "2022-12-30": 57,
-      "2022-12-29": 53
+      "2022-12-29": 19
     }
   },
   {
