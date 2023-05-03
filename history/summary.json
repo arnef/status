@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 735,
-    "timeDay": 584,
-    "timeWeek": 454,
+    "timeDay": 596,
+    "timeWeek": 457,
     "timeMonth": 442,
     "timeYear": 735,
     "dailyMinutesDown": {
@@ -32,8 +32,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 460,
-    "timeDay": 470,
-    "timeWeek": 446,
+    "timeDay": 433,
+    "timeWeek": 447,
     "timeMonth": 426,
     "timeYear": 460,
     "dailyMinutesDown": {
@@ -53,8 +53,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1417,
-    "timeDay": 1192,
-    "timeWeek": 1066,
+    "timeDay": 1115,
+    "timeWeek": 1065,
     "timeMonth": 1053,
     "timeYear": 1417,
     "dailyMinutesDown": {
@@ -76,8 +76,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1256,
-    "timeDay": 936,
-    "timeWeek": 778,
+    "timeDay": 845,
+    "timeWeek": 777,
     "timeMonth": 801,
     "timeYear": 1256,
     "dailyMinutesDown": {
@@ -95,17 +95,17 @@
     "slug": "nwtfv",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "98.31%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "98.32%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "98.86%",
     "time": 834,
-    "timeDay": 891,
-    "timeWeek": 846,
+    "timeDay": 759,
+    "timeWeek": 829,
     "timeMonth": 823,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2023-05-02": 37,
+      "2023-05-02": 36,
       "2023-05-01": 46,
       "2023-04-29": 52,
       "2023-04-28": 35,
@@ -165,7 +165,7 @@
       "2023-01-10": 17,
       "2023-01-08": 18,
       "2023-01-07": 41,
-      "2023-01-06": 1
+      "2023-01-06": 17
     }
   },
   {
