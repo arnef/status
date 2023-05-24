@@ -4,11 +4,11 @@
     "url": "https://push.kickern.online/health",
     "icon": "https://icons.duckduckgo.com/ip3/push.kickern.online.ico",
     "slug": "kickern-push-service",
-    "status": "up",
+    "status": "down",
     "uptime": "96.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.84%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "78.83%",
     "uptimeYear": "96.50%",
     "time": 703,
     "timeDay": 326,
@@ -16,6 +16,7 @@
     "timeMonth": 448,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2023-05-24": 1,
       "2023-05-11": 367,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
@@ -33,10 +34,10 @@
     "url": "https://kickern.online/_healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/kickern.online.ico",
     "slug": "kickern-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 458,
@@ -45,6 +46,7 @@
     "timeMonth": 443,
     "timeYear": 458,
     "dailyMinutesDown": {
+      "2023-05-24": 1,
       "2023-03-18": 210,
       "2023-01-25": 41
     }
@@ -103,9 +105,9 @@
     "slug": "nwtfv",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "97.53%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "98.27%",
     "uptimeYear": "99.06%",
     "time": 837,
     "timeDay": 774,
@@ -113,7 +115,6 @@
     "timeMonth": 852,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2023-05-24": 15,
       "2023-05-23": 21,
       "2023-05-22": 23,
       "2023-05-20": 15,
@@ -176,7 +177,8 @@
       "2023-01-27": 17,
       "2023-01-26": 24,
       "2023-01-25": 47,
-      "2023-01-21": 29
+      "2023-01-21": 29,
+      "2023-01-19": 17
     }
   },
   {
@@ -207,9 +209,9 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
@@ -219,6 +221,7 @@
     "timeMonth": 1406,
     "timeYear": 8293,
     "dailyMinutesDown": {
+      "2023-05-24": 0,
       "2023-04-06": 31,
       "2023-03-18": 210,
       "2023-02-27": 78,
