@@ -8,7 +8,7 @@
     "uptime": "96.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "96.79%",
     "time": 683,
     "timeDay": 345,
@@ -105,9 +105,9 @@
     "slug": "nwtfv",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.39%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "99.34%",
     "time": 845,
     "timeDay": 741,
@@ -115,7 +115,6 @@
     "timeMonth": 890,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2023-06-10": 5,
       "2023-06-09": 20,
       "2023-06-07": 22,
       "2023-06-06": 157,
@@ -163,7 +162,8 @@
       "2023-04-10": 30,
       "2023-04-09": 50,
       "2023-04-07": 18,
-      "2023-04-06": 32
+      "2023-04-06": 32,
+      "2023-04-02": 17
     }
   },
   {
