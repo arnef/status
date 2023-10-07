@@ -1,7 +1,7 @@
 url: https://geki-piano.com
-status: up
-code: 200
-responseTime: 1037
-lastUpdated: 2023-10-06T23:02:00.176Z
+status: down
+code: 500
+responseTime: 20353
+lastUpdated: 2023-10-07T18:29:51.411Z
 startTime: 2022-11-16T16:14:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
