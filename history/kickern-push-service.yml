@@ -1,7 +1,7 @@
 url: https://push.kickern.online/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-12T23:58:34.619Z
+status: up
+code: 200
+responseTime: 1018
+lastUpdated: 2023-11-13T05:36:34.499Z
 startTime: 2022-11-16T08:35:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
