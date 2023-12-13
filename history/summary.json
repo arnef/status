@@ -8,12 +8,12 @@
     "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.98%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.08%",
     "time": 625,
     "timeDay": 384,
     "timeWeek": 559,
-    "timeMonth": 699,
+    "timeMonth": 689,
     "timeYear": 639,
     "dailyMinutesDown": {
       "2023-11-13": 463,
@@ -186,12 +186,12 @@
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.00%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.80%",
     "time": 5582,
     "timeDay": 983,
     "timeWeek": 2068,
-    "timeMonth": 1573,
+    "timeMonth": 1565,
     "timeYear": 5775,
     "dailyMinutesDown": {
       "2023-11-13": 457,
@@ -214,17 +214,19 @@
     "url": "https://health.unqr.dev",
     "icon": "https://icons.duckduckgo.com/ip3/health.unqr.dev.ico",
     "slug": "health",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 829,
     "timeDay": 829,
     "timeWeek": 829,
     "timeMonth": 829,
     "timeYear": 829,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-13": 1
+    }
   }
 ]
