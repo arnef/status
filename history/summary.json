@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 611,
-    "timeDay": 303,
-    "timeWeek": 476,
-    "timeMonth": 470,
-    "timeYear": 615,
+    "timeDay": 302,
+    "timeWeek": 456,
+    "timeMonth": 463,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2023-11-13": 463,
       "2023-11-12": 1,
@@ -43,14 +43,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1181,
-    "timeDay": 940,
-    "timeWeek": 1100,
-    "timeMonth": 1037,
-    "timeYear": 1057,
-    "dailyMinutesDown": {
-      "2023-02-03": 134
-    }
+    "time": 1166,
+    "timeDay": 874,
+    "timeWeek": 1097,
+    "timeMonth": 1036,
+    "timeYear": 1056,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TFVHH",
@@ -63,14 +61,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 969,
-    "timeDay": 655,
-    "timeWeek": 832,
-    "timeMonth": 757,
-    "timeYear": 862,
-    "dailyMinutesDown": {
-      "2023-02-03": 131
-    }
+    "time": 968,
+    "timeDay": 633,
+    "timeWeek": 829,
+    "timeMonth": 756,
+    "timeYear": 860,
+    "dailyMinutesDown": {}
   },
   {
     "name": "NWTFV",
@@ -83,10 +79,10 @@
     "uptimeWeek": "98.97%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.61%",
-    "time": 868,
-    "timeDay": 637,
-    "timeWeek": 715,
-    "timeMonth": 734,
+    "time": 869,
+    "timeDay": 674,
+    "timeWeek": 717,
+    "timeMonth": 735,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2024-01-29": 104,
@@ -158,10 +154,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1361,
-    "timeDay": 941,
-    "timeWeek": 1138,
-    "timeMonth": 1589,
+    "time": 1360,
+    "timeDay": 976,
+    "timeWeek": 1137,
+    "timeMonth": 1591,
     "timeYear": 1419,
     "dailyMinutesDown": {
       "2023-06-12": 4,
@@ -181,11 +177,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 5195,
-    "timeDay": 1006,
-    "timeWeek": 1089,
-    "timeMonth": 1114,
-    "timeYear": 5625,
+    "time": 5188,
+    "timeDay": 1050,
+    "timeWeek": 1098,
+    "timeMonth": 1113,
+    "timeYear": 5623,
     "dailyMinutesDown": {
       "2023-11-13": 457,
       "2023-11-12": 1,
