@@ -81,7 +81,7 @@
     "uptimeYear": "99.61%",
     "time": 869,
     "timeDay": 760,
-    "timeWeek": 1094,
+    "timeWeek": 1208,
     "timeMonth": 812,
     "timeYear": 867,
     "dailyMinutesDown": {
@@ -171,9 +171,9 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
@@ -183,6 +183,7 @@
     "timeMonth": 1118,
     "timeYear": 5609,
     "dailyMinutesDown": {
+      "2024-02-06": 0,
       "2023-11-13": 457,
       "2023-11-12": 1,
       "2023-10-09": 16,
