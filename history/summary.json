@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.09%",
     "time": 605,
-    "timeDay": 534,
-    "timeWeek": 403,
-    "timeMonth": 421,
-    "timeYear": 566,
+    "timeDay": 296,
+    "timeWeek": 393,
+    "timeMonth": 420,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2023-11-13": 463,
       "2023-11-12": 1,
@@ -43,10 +43,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1144,
-    "timeDay": 1226,
-    "timeWeek": 1075,
-    "timeMonth": 1085,
+    "time": 1143,
+    "timeDay": 878,
+    "timeWeek": 1051,
+    "timeMonth": 1087,
     "timeYear": 1049,
     "dailyMinutesDown": {}
   },
@@ -62,8 +62,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 957,
-    "timeDay": 912,
-    "timeWeek": 782,
+    "timeDay": 635,
+    "timeWeek": 762,
     "timeMonth": 802,
     "timeYear": 791,
     "dailyMinutesDown": {}
@@ -80,9 +80,9 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.61%",
     "time": 863,
-    "timeDay": 657,
-    "timeWeek": 735,
-    "timeMonth": 804,
+    "timeDay": 617,
+    "timeWeek": 726,
+    "timeMonth": 801,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2024-01-29": 104,
@@ -155,10 +155,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1366,
-    "timeDay": 1245,
-    "timeWeek": 1176,
-    "timeMonth": 1173,
-    "timeYear": 1281,
+    "timeDay": 1112,
+    "timeWeek": 1185,
+    "timeMonth": 1160,
+    "timeYear": 1282,
     "dailyMinutesDown": {
       "2023-06-12": 4,
       "2023-06-11": 63
@@ -174,12 +174,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 5049,
-    "timeDay": 1363,
-    "timeWeek": 1188,
-    "timeMonth": 1183,
-    "timeYear": 5135,
+    "uptimeYear": "99.81%",
+    "time": 5276,
+    "timeDay": 945,
+    "timeWeek": 1164,
+    "timeMonth": 1187,
+    "timeYear": 4585,
     "dailyMinutesDown": {
       "2023-11-13": 457,
       "2023-11-12": 1,
@@ -190,8 +190,7 @@
       "2023-04-06": 31,
       "2023-03-18": 210,
       "2023-02-27": 78,
-      "2023-02-26": 57,
-      "2023-02-25": 16
+      "2023-02-26": 57
     }
   }
 ]
