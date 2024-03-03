@@ -55,19 +55,19 @@
     "url": "https://kickern-hamburg.de",
     "icon": "https://icons.duckduckgo.com/ip3/kickern-hamburg.de.ico",
     "slug": "tfvhh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 953,
-    "timeDay": 776,
-    "timeWeek": 836,
-    "timeMonth": 810,
+    "time": 952,
+    "timeDay": 718,
+    "timeWeek": 814,
+    "timeMonth": 805,
     "timeYear": 790,
     "dailyMinutesDown": {
-      "2024-03-03": 0
+      "2024-03-03": 13
     }
   },
   {
