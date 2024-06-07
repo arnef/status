@@ -46,9 +46,9 @@
     "url": "https://kickern-hamburg.de",
     "icon": "https://icons.duckduckgo.com/ip3/kickern-hamburg.de.ico",
     "slug": "tfvhh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 823,
     "timeMonth": 796,
     "timeYear": 781,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-07": 0
+    }
   },
   {
     "name": "NWTFV",
@@ -74,7 +76,7 @@
     "timeDay": 826,
     "timeWeek": 748,
     "timeMonth": 741,
-    "timeYear": 874,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2024-03-16": 17,
       "2024-03-11": 46,
@@ -152,7 +154,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
