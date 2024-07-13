@@ -74,7 +74,7 @@
     "timeDay": 693,
     "timeWeek": 659,
     "timeMonth": 784,
-    "timeYear": 838,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2024-03-16": 17,
       "2024-03-11": 46,
@@ -114,9 +114,9 @@
     "url": "https://ntfv.de",
     "icon": "https://icons.duckduckgo.com/ip3/ntfv.de.ico",
     "slug": "ntfv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -124,8 +124,9 @@
     "timeDay": 1440,
     "timeWeek": 1890,
     "timeMonth": 2137,
-    "timeYear": 1533,
+    "timeYear": 1534,
     "dailyMinutesDown": {
+      "2024-07-13": 0,
       "2024-05-13": 19,
       "2024-03-04": 17
     }
