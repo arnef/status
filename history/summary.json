@@ -96,9 +96,9 @@
     "slug": "ntfv",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1508,
     "timeDay": 1568,
@@ -106,7 +106,6 @@
     "timeMonth": 1773,
     "timeYear": 1560,
     "dailyMinutesDown": {
-      "2024-08-27": 3,
       "2024-05-13": 19,
       "2024-03-04": 17
     }
