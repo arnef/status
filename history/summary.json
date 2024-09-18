@@ -4,10 +4,10 @@
     "url": "https://push.kickern.online/health",
     "icon": "https://icons.duckduckgo.com/ip3/push.kickern.online.ico",
     "slug": "kickern-push-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 484,
@@ -16,6 +16,7 @@
     "timeMonth": 436,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2024-09-18": 1,
       "2024-04-23": 37,
       "2023-11-13": 463,
       "2023-11-12": 1,
@@ -68,12 +69,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 811,
+    "uptimeYear": "99.94%",
+    "time": 785,
     "timeDay": 830,
     "timeWeek": 816,
     "timeMonth": 875,
-    "timeYear": 788,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2024-03-16": 17,
       "2024-03-11": 46,
@@ -109,10 +110,10 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1259,
@@ -121,6 +122,7 @@
     "timeMonth": 1016,
     "timeYear": 1222,
     "dailyMinutesDown": {
+      "2024-09-18": 1,
       "2024-04-23": 37,
       "2023-11-13": 457,
       "2023-11-12": 1,
@@ -133,9 +135,9 @@
     "url": "https://overia.de/de",
     "icon": "https://icons.duckduckgo.com/ip3/overia.de.ico",
     "slug": "overia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -144,6 +146,8 @@
     "timeWeek": 775,
     "timeMonth": 728,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 0
+    }
   }
 ]
