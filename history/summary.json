@@ -4,10 +4,10 @@
     "url": "https://push.kickern.online/health",
     "icon": "https://icons.duckduckgo.com/ip3/push.kickern.online.ico",
     "slug": "kickern-push-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 456,
@@ -16,6 +16,7 @@
     "timeMonth": 418,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2025-02-09": 1,
       "2024-09-18": 19,
       "2024-04-23": 37
     }
@@ -108,10 +109,10 @@
     "url": "https://geki-piano.com",
     "icon": "https://icons.duckduckgo.com/ip3/geki-piano.com.ico",
     "slug": "geki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1096,
@@ -120,6 +121,7 @@
     "timeMonth": 885,
     "timeYear": 1043,
     "dailyMinutesDown": {
+      "2025-02-09": 1,
       "2024-09-18": 19,
       "2024-04-23": 37
     }
@@ -129,9 +131,9 @@
     "url": "https://overia.de/de",
     "icon": "https://icons.duckduckgo.com/ip3/overia.de.ico",
     "slug": "overia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -141,6 +143,7 @@
     "timeMonth": 729,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2025-02-09": 0,
       "2024-09-18": 18
     }
   }
