@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/push.kickern.online.ico",
     "slug": "kickern-push-service",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.39%",
@@ -44,18 +44,20 @@
     "url": "https://kickern-hamburg.de",
     "icon": "https://icons.duckduckgo.com/ip3/kickern-hamburg.de.ico",
     "slug": "tfvhh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
-    "timeDay": 727,
-    "timeWeek": 857,
-    "timeMonth": 913,
+    "timeDay": 864,
+    "timeWeek": 875,
+    "timeMonth": 915,
     "timeYear": 854,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-20": 0
+    }
   },
   {
     "name": "NWTFV",
@@ -72,7 +74,7 @@
     "timeDay": 592,
     "timeWeek": 801,
     "timeMonth": 789,
-    "timeYear": 793,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2024-12-02": 78,
       "2024-09-27": 17,
@@ -93,7 +95,7 @@
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.89%",
     "time": 1764,
-    "timeDay": 2038,
+    "timeDay": 1985,
     "timeWeek": 2206,
     "timeMonth": 2151,
     "timeYear": 1953,
