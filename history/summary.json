@@ -27,7 +27,7 @@
     "url": "https://overia.de/de",
     "icon": "https://icons.duckduckgo.com/ip3/overia.de.ico",
     "slug": "overia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 764,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2025-05-22": 0,
       "2025-03-22": 326,
       "2025-03-21": 2,
       "2025-02-09": 268,
