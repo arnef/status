@@ -28,9 +28,9 @@
     "url": "https://arnef.de",
     "icon": "https://icons.duckduckgo.com/ip3/arnef.de.ico",
     "slug": "arnef",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,6 +39,8 @@
     "timeWeek": 653,
     "timeMonth": 639,
     "timeYear": 639,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-01": 0
+    }
   }
 ]
