@@ -29,18 +29,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/arnef.de.ico",
     "slug": "arnef",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 639,
     "timeDay": 643,
     "timeWeek": 653,
     "timeMonth": 639,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2026-01-01": 0
+      "2026-01-01": 10
     }
   }
 ]
