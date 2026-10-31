@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.43%",
+    "uptimeYear": "28.41%",
     "time": 1001,
     "timeDay": 0,
     "timeWeek": 0,
@@ -17,7 +17,7 @@
     "timeYear": 940,
     "dailyMinutesDown": {
       "2025-12-17": 23,
-      "2026-10-31": 273,
+      "2026-10-31": 399,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -287,9 +287,9 @@
     "url": "https://arnef.de",
     "icon": "https://icons.duckduckgo.com/ip3/arnef.de.ico",
     "slug": "arnef",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -298,6 +298,8 @@
     "timeWeek": 1048,
     "timeMonth": 1559,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-31": 0
+    }
   }
 ]
